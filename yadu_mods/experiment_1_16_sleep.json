@@ -1,0 +1,1 @@
+{"throughput": 11.964480564210026, "total_tasks": 6400, "num_nodes": 1, "workers_per_node": 64, "tasks_per_worker": 100, "total_time_to_launch": 4.5756635665893555, "total_time_to_complete": 534.9166615009308, "fileconfig": "config_injob_multiblock", "task_duration": "1"}
