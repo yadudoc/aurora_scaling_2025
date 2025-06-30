@@ -1,0 +1,12 @@
+{"minimum_gap": 0.0, "maximum_gap": 0.0, "average_gap": 0.0, "total_tasks": 1, "worker_start_time": "2025-06-24 15:58:46.562000", "worker_end_time": "2025-06-24 15:58:46.570000", "first_task_arrival": "2025-06-24 15:58:46.564000"}
+{"minimum_gap": 0.0, "maximum_gap": 0.001, "average_gap": 7.272727272727273e-05, "total_tasks": 55, "worker_start_time": "2025-06-24 15:58:46.539000", "worker_end_time": "2025-06-24 15:58:46.569000", "first_task_arrival": "2025-06-24 15:58:46.549000"}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.598000", "worker_end_time": "2025-06-24 15:58:46.598000", "first_task_arrival": 0}
+{"minimum_gap": 0.0, "maximum_gap": 0.001, "average_gap": 0.0002, "total_tasks": 5, "worker_start_time": "2025-06-24 15:58:46.560000", "worker_end_time": "2025-06-24 15:58:46.570000", "first_task_arrival": "2025-06-24 15:58:46.563000"}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.585000", "worker_end_time": "2025-06-24 15:58:46.585000", "first_task_arrival": 0}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.576000", "worker_end_time": "2025-06-24 15:58:46.576000", "first_task_arrival": 0}
+{"minimum_gap": 0.0, "maximum_gap": 0.008, "average_gap": 0.00030909090909090925, "total_tasks": 55, "worker_start_time": "2025-06-24 15:58:46.538000", "worker_end_time": "2025-06-24 15:58:46.569000", "first_task_arrival": "2025-06-24 15:58:46.540000"}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.592000", "worker_end_time": "2025-06-24 15:58:46.592000", "first_task_arrival": 0}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.595000", "worker_end_time": "2025-06-24 15:58:46.595000", "first_task_arrival": 0}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.593000", "worker_end_time": "2025-06-24 15:58:46.593000", "first_task_arrival": 0}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.596000", "worker_end_time": "2025-06-24 15:58:46.596000", "first_task_arrival": 0}
+{"minimum_gap": 0, "maximum_gap": 0, "average_gap": 0, "total_tasks": 0, "worker_start_time": "2025-06-24 15:58:46.563000", "worker_end_time": "2025-06-24 15:58:46.570000", "first_task_arrival": 0}
