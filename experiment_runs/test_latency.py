@@ -125,7 +125,7 @@ def test_parallel_for(num_tasks_per_worker=64, num_nodes=1, sleep=1, workers_per
 
 def test_parallel_with_task_latency(num_tasks_per_worker=64, num_nodes=1, sleep=1, workers_per_node=None):
     future_table = OrderedDict()
-    start = time.perf_counter()
+    start = time.time()
     print("Priming ...")
     double(10).result()
     delta = time.time() - start
@@ -145,7 +145,7 @@ def test_parallel_with_task_latency(num_tasks_per_worker=64, num_nodes=1, sleep=
     for future in concurrent.futures.as_completed(future_table):
         future_table[future] = round(time.perf_counter() - future_table[future], 3)
 
-    delta = time.perf_counter() - start
+    delta = time.time() - start
     print("Time to complete {} tasks: {:8.3f} s".format(total_tasks, delta))
     print("Throughput : {:8.3f} Tasks/s".format(total_tasks / delta))
 
